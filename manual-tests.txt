@@ -61,4 +61,16 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 ## Expected results
 * Should display "Developer" for the user name.
 
+# Module 4: Allowing only numerical card numbers as input
+
+## Test steps
+1. Build and run CiCo.
+2. Enter ABCDABCD into the field
+3. Enter 00000000 into the field and click Update.
+
+## Expected results
+* The panel should only display numerical input
+
+
+
 
