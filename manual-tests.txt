@@ -71,6 +71,16 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 ## Expected results
 * The panel should only display numerical input
 
+# Module 5: Home button to show main screen (Ticket 501)
+
+## Test steps
+1. Build and run CiCo.
+2. Enter 00000000 into the field and click Update
+3. Press "Home" button to return back to main screen
+
+## Expected results
+* The panel should return to the main screen
+
 
 
 
