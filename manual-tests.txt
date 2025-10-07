@@ -82,5 +82,22 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 * The panel should return to the main screen
 
 
+# Module 6: Aesthetic and Minimalist Design
+
+## Test Steps
+1. Build and run CiCo.
+2. Observe Main panel color scheme
+3. Enter a valid card number and hit update.
+4. Observe Status panel color scheme
+5. Click the Home button.
+6. Click update without any input
+7. Observe Error panel color scheme
+
+## Expected Results
+* During steps 2, 4, and 7 user should notice a
+* a monochromatic, neutral, subdued, and professional color scheme
+
+
+
 
 
